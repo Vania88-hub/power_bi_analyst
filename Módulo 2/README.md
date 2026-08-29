@@ -6,6 +6,21 @@ Este projeto foi desenvolvido como parte do desafio de projeto do **Bootcamp Uni
 
 A análise busca apresentar uma visão geral das vendas por **produto, segmento e país**, permitindo avaliar indicadores como vendas, unidades vendidas e lucro, além de identificar padrões e oportunidades de melhoria nos resultados da empresa.
 
+## 🖼️ Visualização do Dashboard
+
+### Dashboard 1 — Vendas por Produto e Segmento
+
+![Dashboard 1 - Vendas por Produto e Segmento](dashboard 1.png)
+
+### Dashboard 2 — Vendas e Lucro por País
+
+![Dashboard 2 - Vendas e Lucro por País](dashboard 2.png)
+
+### Dashboard 3 — Distribuição de Lucros, Vendas e Unidades Vendidas
+
+![Dashboard 3 - Distribuição por País e Segmento](dashboard 3.png)
+
+
 ---
 
 ## 🎯 Objetivo
