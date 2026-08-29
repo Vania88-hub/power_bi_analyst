@@ -10,17 +10,15 @@ A análise busca apresentar uma visão geral das vendas por **produto, segmento 
 
 ### Dashboard 1 — Vendas por Produto e Segmento
 
-![Dashboard 1 - Vendas por Produto e Segmento](Dashboard%201.png)
+![Dashboard 1 - Vendas por Produto e Segmento](https://github.com/Vania88-hub/power_bi_analyst/raw/main/M%C3%B3dulo%202/Dashboard%201.png)
 
 ### Dashboard 2 — Vendas e Lucro por País
 
-![Dashboard 2 - Vendas e Lucro por País](Dashboard%202.png)
+![Dashboard 2 - Vendas e Lucro por País](https://github.com/Vania88-hub/power_bi_analyst/raw/main/M%C3%B3dulo%202/Dashboard%202.png)
 
 ### Dashboard 3 — Distribuição de Lucros, Vendas e Unidades Vendidas
 
-![Dashboard 3 - Distribuição por País e Segmento](Dashboard%203.png)
-
-
+![Dashboard 3 - Distribuição por País e Segmento](https://github.com/Vania88-hub/power_bi_analyst/raw/main/M%C3%B3dulo%202/Dashboard%203.png)
 
 ---
 
